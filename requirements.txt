@@ -5,6 +5,7 @@ matplotlib
 scikit-learn
 ipython==5.1.0
 ipdb
+xgboost
 luigi==2.3.1
 
 pep8==1.7.0
